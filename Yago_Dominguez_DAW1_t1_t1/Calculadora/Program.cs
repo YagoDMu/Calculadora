@@ -72,8 +72,7 @@ namespace Calculadora {
             int inputInt = 0;
             do
             {
-                // Console.WriteLine ("Introduce un número entero positivo:\n");
-                string? inputString = Console.ReadLine();
+                string? inputString = Console.ReadLine(); // Console.WriteLine ("Introduce un número entero positivo:\n");
 
                     try // Intenta convertir a Int
                     {
